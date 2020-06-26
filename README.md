@@ -1,7 +1,7 @@
 # Welcome to *Clairvoyant Clustering of Consumer Complaints*!
 This project is a multi-faceted approach to analyzing text and clustering companies identified in consumer complaints filed with the Consumer Financial Protection Bureau. Tools and techniques include natural language processing (SpaCy and CorEx) and unsupervised machine learning (K-Means and PCA)
 
-The supporting video presentation can be found on [YouTube]([TBD]).
+The supporting video presentation can be found on [YouTube](https://www.youtube.com/watch?v=5y-dD94CFRw&feature=youtu.be).
 
 ## Notebook #1 EDA and SpaCy
 The dataset is downloaded from the Consumer Financial Protection Bureau's (CFPB) [Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/search/?dataLens=Overview&dataNormalization=None&dateInterval=Month&dateRange=3y&date_received_max=2020-06-21&date_received_min=2017-06-21&from=0&page=1&searchField=all&size=25&sort=created_date_desc&tab=Map). Data filters used for this project:
